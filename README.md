@@ -1,14 +1,14 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Java+Developer;DevOps+Enthusiast;AI%2FML+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Java+Developer;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🎯 About Me
 
-I'm **Zaphaniah Gangisetty**, a final-year Computer Science Engineering student with a passion for building scalable applications and exploring the DevOps ecosystem. I'm enthusiastic about **Java development**, **cloud infrastructure**, and **artificial intelligence**.
+I'm **Zaphaniah Gangisetty**, a final-year Computer Science Engineering student with a passion for building scalable applications and exploring the DevOps ecosystem. I'm enthusiastic about **Java development**, **cloud computing**, and **infrastructure automation**.
 
 Currently focused on:
 - 🚀 Mastering Spring Boot and microservices architecture
@@ -92,12 +92,12 @@ DVR & DR HS MIC College of Technology
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaphaniah518&theme=tokyo-night&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zaphaniah518&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaphaniah518&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaphaniah518&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaphaniah518&theme=tokyo-night&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaphaniah518&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ DVR & DR HS MIC College of Technology
   <a href="https://github.com/zaphaniah518" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="blank">
+  <a href="mailto:zaphaniah518@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
