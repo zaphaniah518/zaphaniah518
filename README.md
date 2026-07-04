@@ -119,7 +119,7 @@ DVR & DR HS MIC College of Technology
   <a href="https://github.com/zaphaniah518" target="blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:zaphaniah518@gmail.com" target="blank">
+  <a href="mailto:zaphaniahgangisetty@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
